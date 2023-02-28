@@ -1,2 +1,2 @@
 # PrismSimulation
-my python script on using pyprismatic package to simulate TEM images
+my python script on using pyprismatic package (https://github.com/prism-em/prismatic) to simulate TEM images
